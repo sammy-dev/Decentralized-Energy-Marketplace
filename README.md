@@ -1,5 +1,3 @@
-Sure, here's the updated documentation with the GitHub link included:
-
 # Decentralized Energy Marketplace
 
 ## Overview
