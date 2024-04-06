@@ -1,3 +1,5 @@
+Sure, here's the updated documentation with the GitHub link included:
+
 # Decentralized Energy Marketplace
 
 ## Overview
@@ -32,3 +34,6 @@ The contract can be deployed on the Ethereum blockchain using tools like Remix, 
 
 ## Conclusion
 The Decentralized Energy Marketplace offers a solution to the challenges faced by traditional energy markets. By providing a transparent, efficient, and decentralized platform for energy token trading, it promotes fair market participation, reduces transaction costs, and fosters a decentralized energy ecosystem.
+
+## Project Repository
+[GitHub Repository](https://github.com/sammy-dev/Decentralized-Energy-Marketplace) - Visit the project repository for source code and further details.
