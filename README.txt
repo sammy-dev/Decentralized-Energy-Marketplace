@@ -1,4 +1,4 @@
-# Decentralized Energy Marketplace
+ Decentralized Energy Marketplace
 
 ## Overview
 The Decentralized Energy Marketplace is a smart contract deployed on the Ethereum blockchain, facilitating the trading of energy tokens among users. Leveraging Chainlink oracles, it fetches real-time energy prices to ensure transparency and reliability in energy token transactions. Users can register, create, list, and purchase energy tokens securely and efficiently through this decentralized platform.
